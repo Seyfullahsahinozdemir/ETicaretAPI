@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FbTBbQuxwxnMSmFDopyvJ3wUrs86AxphGeU+v+pACTQ=",
+  "Hash": "VG77FZwEE8F7ji3m+aS8xk+AyBbelLsq4p6QJbQfQ8g=",
   "Source": "ETicaretAPI.API",
   "BasePath": "_content/ETicaretAPI.API",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "wwwroot\\resource\\product-images\\delete-2.png"
     },
     {
+      "Identity": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\product-images\\delete-3.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/product-images/delete-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\product-images\\delete-3.png"
+    },
+    {
       "Identity": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\product-images\\edit.png",
       "SourceId": "ETicaretAPI.API",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\resource\\product-images\\edit-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\product-images\\edit-3.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/product-images/edit-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\product-images\\edit-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\resource\\product-images\\edit-4.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "resource/product-images/edit-4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\product-images\\edit-4.png"
     }
   ]
 }

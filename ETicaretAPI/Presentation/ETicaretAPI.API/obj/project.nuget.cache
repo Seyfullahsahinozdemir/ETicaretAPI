@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UjHsOu+ReXkI8DQ46Fml6kCjk8ztNqvlFURwu6gvTDg3koGgDGAnc1U2MaOU09op7G/Xq+3/RLQ9xAyMeqgUpQ==",
+  "dgSpecHash": "joOsYiaup8Wl4+NVvHyJTEGRs4pVzoWO9rAEMZz8S2TcPg5V8b6cGNV1wMjNa6g+tRG6xjalBkRKOsNSfDCJHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\SAHIN\\Desktop\\kes\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SAHIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\SAHIN\\.nuget\\packages\\azure.core\\1.31.0\\azure.core.1.31.0.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\SAHIN\\.nuget\\packages\\azure.storage.blobs\\12.16.0\\azure.storage.blobs.12.16.0.nupkg.sha512",
+    "C:\\Users\\SAHIN\\.nuget\\packages\\azure.storage.common\\12.15.0\\azure.storage.common.12.15.0.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
@@ -67,6 +69,7 @@
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.21.0\\system.identitymodel.tokens.jwt.6.21.0.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\SAHIN\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
     "C:\\Users\\SAHIN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

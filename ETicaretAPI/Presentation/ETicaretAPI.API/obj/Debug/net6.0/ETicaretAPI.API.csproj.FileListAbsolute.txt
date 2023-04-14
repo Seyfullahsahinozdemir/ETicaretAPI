@@ -105,3 +105,6 @@ C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretA
 C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.dll
 C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\ETicaretAPI.API.staticwebassets.runtime.json
+C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\SAHIN\Desktop\kes\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\System.IO.Hashing.dll
